@@ -1,1 +1,3 @@
 # LMS
+
+Leave Management System
