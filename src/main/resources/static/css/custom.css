@@ -1,0 +1,6 @@
+.breadcrumb-item.active {
+    color: #fff !important;
+    mix-blend-mode: difference;
+    font-weight: 500;
+    filter: brightness(200%);
+}
